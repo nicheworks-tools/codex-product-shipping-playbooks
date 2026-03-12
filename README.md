@@ -17,6 +17,8 @@ It is **not** a generic PM toolkit.
 It is **not** a clone of a skills repository.
 Its native structure is built around playbooks, artifacts, gates, flows, and adapters.
 
+Read the project overview: https://nicheworks.app/tools/codex-product-shipping-playbooks/
+
 ---
 
 ## What this repository is for
@@ -181,8 +183,10 @@ codex-product-shipping-playbooks/
 Published by **NicheWorks**.
 
 Website:
-
 * `https://nicheworks.app/`
+
+Project overview: 
+* `https://nicheworks.app/tools/codex-product-shipping-playbooks/`
 
 ---
 
